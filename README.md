@@ -4,7 +4,7 @@
  
  Технологии:
  
--Blender 2.9
--Unity 3d
--C#
--Photoshop
+- Blender 2.9
+- Unity 3d
+- C#
+- Photoshop
